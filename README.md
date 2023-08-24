@@ -10,3 +10,13 @@ https://neoflakes-eashwar-project.netlify.app/
 https://neoflakes-api.onrender.com
 ```
 
+# frontend repository
+```
+https://github.com/Eashwarsai/frontendneoflakes
+```
+
+# backend repository
+
+```
+https://github.com/Eashwarsai/neoflakesapi
+```
